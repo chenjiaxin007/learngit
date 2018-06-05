@@ -3,3 +3,5 @@
 3
 4
 5  git is a version control system
+
+git ia free software distributed under the GPL
